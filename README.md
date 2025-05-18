@@ -1,4 +1,4 @@
-# aerport_detect_object
+# airport_detect_object
 
 ### Information
   - This project its a object detection to detect dangerous objects in the bag of the people in the aerpport.
